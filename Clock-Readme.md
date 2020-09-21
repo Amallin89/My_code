@@ -1,7 +1,0 @@
-Hello my name is Andrew Mallin, and this is will be the Read-Me for a Clock Javascript project I did as an exericse in understanding how to create a projects using HTML,CSS and Javascript. The disclaimer is that I did follow an online tutorial to do this project as the understand it in detail and to learn the basics of setting up a web application using the html
-
-The first thing done was setting up the HTML file and setting up the href link for the styles sheet and the javascript file, then I saw how the elements of the clock face were made in the html file itself such as the numbers as div class elements under the div class clock, then using the CSS file to then style the the html elements into a clock face using css properties.
-
-The files are seperated into the index html file, the styles file which used a href link to be rendered with the html and a javascript file where the script for the clock is written. The script uses const values for the hour hand and minute hand and second hand which are referenced from the html file using the div classes set up in the html for each hand. The variables for the clock were setup using constant data values set to uses the get method for the seconds and hours and minutes, and the setRotation meathod to set the movement for each hand and the function to rotate them at 360 degrees.
-
-This was a very good exercise in learning how to use, HTML, CSS and Javascript to set up a simple app
