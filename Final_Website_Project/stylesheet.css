@@ -25,6 +25,9 @@ h1{
     text-align: center;
     color:rgb(242,217,53)
 }
+img{
+    float: right;
+}
 .container {
     width: 100vw;
     height: 100vh;
